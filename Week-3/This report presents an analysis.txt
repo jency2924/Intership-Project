@@ -1,0 +1,7 @@
+This report presents an analysis of a hypothetical logistics dataset using Python. It includes Exploratory Data Analysis (EDA), descriptive statistics, central tendency calculations, distribution analysis, correlation analysis, and logistics KPI evaluation.
+
+The analysis examines delivery times, shipment volumes, transportation costs, transport modes, and regional performance. Data quality checks are performed to identify missing values and duplicate records. Key performance indicators, including average delivery time, average transportation cost, and on-time delivery rate, are calculated to assess logistics operations.
+
+Three visualizations are included: a correlation heatmap, a bar chart comparing average delivery time by transport mode, and a bar chart comparing average transportation cost by region. The visualizations help interpret relationships between logistics metrics and compare delivery and cost performance.
+
+The report concludes with analytical findings and recommendations to support data-driven decision-making and improve logistics efficiency. Python libraries including Pandas, NumPy, Matplotlib, Seaborn, and Scikit-learn are used where applicable.
